@@ -14,6 +14,10 @@ Un blog increible de git y github
 
 * Las personalidades multiples de Freddy
 
+* Creado por platzi
+
+
+
 Y como un amable recordatorio: **Este readme.md es un chiste**. Disefiado
 para el ejemplo. Si llegas acd **NO TE LO TOMES EN SERIO** y **mejor ve a ver el.
 curso** https://platzi.com/cursos/git-github/ “a ver el curso”).
