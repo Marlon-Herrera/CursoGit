@@ -16,6 +16,13 @@ Un blog increible de git y github
 
 * Creado por platzi
 
+<<<<<<< HEAD
+=======
+* Incluye ejemplos en windows, Linux y Mac
+
+* Disponible para todas las edades
+
+>>>>>>> readme-mejorado
 
 
 Y como un amable recordatorio: **Este readme.md es un chiste**. Disefiado
